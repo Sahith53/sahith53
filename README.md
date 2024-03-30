@@ -8,7 +8,9 @@
 </div>
 
 <hr>
+
 ## ⚡ Technologies & Tools
+
 <p align="left">
 <hr>
 <p align="center">
