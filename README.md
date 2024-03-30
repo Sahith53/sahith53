@@ -1,5 +1,5 @@
 
-
+## Hi, my name is Sahith chowdary  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 
 <div align="center">
@@ -9,10 +9,9 @@
 </div>
 
 <hr>
-<p align="center">
-<img src="https://github.com/Shiva-Tadigadapa/Shiva-Tadigadapa/blob/main/tools.png" width="40%" />
-</p>
-
+##⚡ Technologies & Tools
+<p align="left">
+<hr>
 <p align="center">
           <a href="https://github.com/Sahith53/">
           <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api?username=Sahith53&show_icons=true&theme=gruvbox&hide_border=true" />
