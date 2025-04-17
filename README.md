@@ -84,8 +84,6 @@
 
 ## 📊 GitHub Stats:
 
-## 📊 GitHub Stats:
-
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sahith53&show_icons=true&theme=radical" alt="GitHub Stats">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahith53&layout=compact&theme=radical&langs_count=6" alt="Top Languages">
