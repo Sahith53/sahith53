@@ -84,19 +84,20 @@
 
 ## 📊 GitHub Stats:
 
+## 📊 GitHub Stats:
+
 <div align="center">
-  <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api?username=Sahith53&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img width="48%" hspace="10" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahith53&theme=gruvbox&hide_border=true" alt="GitHub Streak Stats">  
-  <br>
-  <img width="48%" hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahith53&layout=compact&theme=radical" alt="Top Languages">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sahith53&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahith53&layout=compact&theme=radical&langs_count=6" alt="Top Languages">
 </div>
 
 ---
 
 ### ✍️ Random Developer Quote:
-
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+</div>
 ---
-
+<div align="center">
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sahith53&color=blue&style=flat-square)
+</div>
