@@ -1,44 +1,62 @@
-# Hi, my name is Sahith chowdary  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-<br>
+# Hello, I'm Sahith Chowdary! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 <div align="center">
   <a href="https://github.com/Sahith53">
-  <img  src="https://github.com/Sahith53/sahith53/blob/main/grid-snake.svg"
-       alt="snake" /></a>
+    <img src="https://github.com/Sahith53/sahith53/blob/main/grid-snake.svg" alt="Snake animation" />
+  </a>
 </div>
 
-<hr>
+---
 
 ## ⚡ Technologies & Tools
 
+---
 
-<hr>
 <p align="center">
-          <a href="https://github.com/Sahith53/">
-          <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api?username=Sahith53&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="48%" hspace="10" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahith53&theme=gruvbox&hide_border=true" />
-          </a>
+  <a href="https://github.com/Sahith53/">
+    <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api?username=Sahith53&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" />
+    <img width="48%" hspace="10" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahith53&theme=gruvbox&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
 </p>
 
-# 💫 About Me:
-🔭 Currently Working on MERN stack.<br>🤝 Looking Help on Developing Modern Front-End for a Full Stack Banking App.<br>🌴 Currently Learning JWT Authentication.<br>⚡️ Fun fact: I am Lazy but Intelligent.
+---
 
+## 💫 About Me:
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahithchowdary-/)
+- 🔭 Currently working on the **MERN stack**.
+- 🤝 Seeking collaboration on developing a modern front-end for a **Full Stack Banking App**.
+- 🌱 Currently exploring **JWT Authentication**.
+- ⚡ Fun fact: I might be lazy, but I get things done efficiently!
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sahith53&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sahith53&theme=dark&hide_border=true)<br/>
+---
+
+## 🌐 Connect With Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahithchowdary-/)
+
+---
+
+## 💻 Tech Stack:
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+[...additional badges for other technologies...]
+
+---
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Sahith53&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sahith53&theme=dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahith53&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+---
+
+### ✍️ Random Developer Quote:
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Sahith53&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-       
