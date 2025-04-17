@@ -80,6 +80,8 @@
 
 ---
 
+
+
 ## 📊 GitHub Stats:
 
 <div align="center">
@@ -97,4 +99,4 @@
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Sahith53&icon=0&color=1)
+![Visitor Count](https://komarev.com/ghpvc/?username=Sahith53&color=blue&style=flat-square)
