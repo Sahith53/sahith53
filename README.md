@@ -86,7 +86,7 @@
 
 <div align="center">
   <img width="45%" hspace="10" src="https://github-readme-stats.vercel.app/api?username=Sahith53&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img width="48%" hspace="10" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahith53&theme=radical" alt="GitHub Streak Stats">
+  <img width="48%" hspace="10" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahith53&theme=gruvbox&hide_border=true" alt="GitHub Streak Stats">  
   <br>
   <img width="48%" hspace="10" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahith53&layout=compact&theme=radical" alt="Top Languages">
 </div>
