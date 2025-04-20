@@ -20,9 +20,9 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   </a>
-  <a href="https://www.docker.com/">
+<!--   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  </a>
+  </a> -->
 </p>
 
 
@@ -46,9 +46,9 @@
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   </a>
-  <a href="https://www.python.org/">
+<!--   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </a>
+  </a> -->
   <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   </a>
