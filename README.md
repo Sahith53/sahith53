@@ -84,11 +84,13 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sahith53&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahith53&layout=compact&theme=radical&langs_count=6" alt="Top Languages">
-</div>
-
+<p align="center">
+  <a>
+    <img height="150" width="150" src="https://github.com/sahith53/kishanrajput23/blob/main/images/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahith53&theme=dark&hide_border=true"/>
+    <img height="150" width="150" src="https://github.com/kishanrajput23/sahith53/blob/main/images/right.png">
+  </a>
+</p>
 ---
 
 ### ✍️ Random Developer Quote:
