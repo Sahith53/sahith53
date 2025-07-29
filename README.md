@@ -28,6 +28,7 @@
 
 ---
 
+
 ## 💻 Tech Stack:
 
 <p align="center">
@@ -46,9 +47,9 @@
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   </a>
-<!--   <a href="https://www.python.org/">
+  <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </a> -->
+  </a>
   <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   </a>
@@ -57,6 +58,9 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   </a>
 </p>
 
